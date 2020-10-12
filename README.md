@@ -10,11 +10,12 @@ LSTM built using the Keras Python package to predict time series steps and seque
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
 
-* Python 3.5.x
-* TensorFlow 1.10.0
-* Numpy 1.15.0
-* Keras 2.2.2
-* Matplotlib 2.2.2
+* Python 3.7.5
+* TensorFlow 2.3.1
+* Numpy 1.18.5
+* Pandas 1.1.3
+* Keras 2.4.3
+* Matplotlib 3.3.2
 
 Output for sine wave sequential prediction:
 
